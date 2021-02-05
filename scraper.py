@@ -8,31 +8,17 @@ import requests
 from lyricsgenius.types import Song
 from local import *
 
-ALBUMS = [
-    '1989', '1989 (Deluxe)', '2004-2005 Demo CD', 'Beautiful Eyes - EP',
-    'Cats: Highlights From the Motion Picture Soundtrack', 'Fearless',
-    'Fearless (Platinum Edition)',
-    'Fifty Shades Darker (Original Motion Picture Soundtrack)',
-    'Hannah Montana: The Movie', 'Lover',
-    'One Chance (Original Motion Picture Soundtrack)', 'Red (Deluxe Edition)',
-    'Speak Now', 'Speak Now (Deluxe)', 'Taylor Swift', 'Taylor Swift (Deluxe)',
-    'The Hunger Games: Songs from District 12 and Beyond',
-    'The Taylor Swift Holiday Collection - EP', 'Unreleased Songs',
-    'Valentine’s Day (Original Motion Picture Soundtrack)', 'evermore',
-    'evermore (deluxe version)', 'folklore', 'folklore (deluxe version)',
-    'reputation', 'Uncategorized', ''
-]
+ALBUMS = ['Unreleased Songs', 'E•MO•TION', 
+'Kiss', 'Dedicated Side B (Japan Exclusive)', 'Dedicated', 'E·MO·TION: Side B', 
+'Curiosity - EP', 'Tug of War', 'Kiss (Tour Edition)',
+'Dedicated Side B', 'E•MO•TION: Side B+', 'Dear You - EP', 
+'Ballerina (Original Motion Picture Soundtrack)']
 
-# Songs that don't have an album or for which Taylor Swift is not the primary artist
+# Songs that don't have an album or for which Carly Rae Jepsen is not the primary artist
 OTHER_SONGS = [
-    'Only The Young',
-    'Christmas Tree Farm',
-    # 'Monologue Song (La La La)',
-    'Ronan',
-    "I Don't Wanna Live Forever",
 ]
 
-ARTIST_ID = 1177
+ARTIST_ID = 21150
 API_PATH = "https://api.genius.com"
 ARTIST_URL = API_PATH + "/artists/" + str(ARTIST_ID)
 CSV_PATH = 'songs.csv'
@@ -89,10 +75,10 @@ def sort_songs_by_album(genius, songs, existing_songs=[]):
                         'lyrics_state'] == 'complete':
                     album_name = song_data['album']['name'].strip(
                     ) if song_data['album'] else None
-                    # Handle special cases -- uncategorized songs are under "Taylor Swift " on Genius
-                    if album_name == "Taylor Swift" and album_name != song_data[
-                            'album']['name']:
-                        album_name = "Uncategorized"
+                    # # Handle special cases -- uncategorized songs are under "Taylor Swift " on Genius
+                    # if album_name == "Taylor Swift" and album_name != song_data[
+                    #         'album']['name']:
+                    #     album_name = "Uncategorized"
                     if album_name is None:
                         album_name = ""
                     lyrics = genius.lyrics(song_data['url'])
@@ -233,5 +219,5 @@ def clean_lyrics(lyrics):
     return lyrics
 
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()
