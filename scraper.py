@@ -16,6 +16,8 @@ ALBUMS = ['Unreleased Songs', 'E•MO•TION',
 
 # Songs that don't have an album or for which Carly Rae Jepsen is not the primary artist
 OTHER_SONGS = [
+    'First Time',
+    'Fever'
 ]
 
 ARTIST_ID = 21150
@@ -75,10 +77,7 @@ def sort_songs_by_album(genius, songs, existing_songs=[]):
                         'lyrics_state'] == 'complete':
                     album_name = song_data['album']['name'].strip(
                     ) if song_data['album'] else None
-                    # # Handle special cases -- uncategorized songs are under "Taylor Swift " on Genius
-                    # if album_name == "Taylor Swift" and album_name != song_data[
-                    #         'album']['name']:
-                    #     album_name = "Uncategorized"
+
                     if album_name is None:
                         album_name = ""
                     lyrics = genius.lyrics(song_data['url'])
@@ -100,8 +99,8 @@ def albums_to_songs_csv(songs_by_album, existing_df=None):
     print('Saving songs to CSV...')
     songs_records = []
     for album in songs_by_album:
-        if album in ALBUMS:
-            for song in songs_by_album[album]:
+        for song in songs_by_album[album]:
+            if album in ALBUMS or song.title in OTHER_SONGS:
                 record = {
                     'Title': song.title,
                     'Album': album,
@@ -219,5 +218,5 @@ def clean_lyrics(lyrics):
     return lyrics
 
 
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()

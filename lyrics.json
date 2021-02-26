@@ -3679,6 +3679,454 @@
                 "next": "",
                 "multiplicity": 1
             }
+        ],
+        "Disco Darling": [
+            {
+                "lyric": "If we took a journey on an aeroplane",
+                "prev": "",
+                "next": "From Tokyo to Heaven, Tokyo to Heaven",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "From Tokyo to Heaven, Tokyo to Heaven",
+                "prev": "If we took a journey on an aeroplane",
+                "next": "In the blossom season, in the pouring rain",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "In the blossom season, in the pouring rain",
+                "prev": "From Tokyo to Heaven, Tokyo to Heaven",
+                "next": "But only for a second, only for a second",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "But only for a second, only for a second",
+                "prev": "In the blossom season, in the pouring rain",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You are the one, you are the one",
+                "prev": "But only for a second, only for a second",
+                "next": "You are the one and I need your love",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You are the one and I need your love",
+                "prev": "You are the one, you are the one",
+                "next": "You are the one, you are the one for me tonight",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You are the one, you are the one for me tonight",
+                "prev": "You are the one and I need your love",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You wear the moon just like a spotlight all night",
+                "prev": "You are the one, you are the one for me tonight",
+                "next": "I will follow you (I will follow you)",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "I will follow you (I will follow you)",
+                "prev": "You wear the moon just like a spotlight all night",
+                "next": "And when you move, it's like a disco darling",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "And when you move, it's like a disco darling",
+                "prev": "I will follow you (I will follow you)",
+                "next": "All my dreams come true (All my dreams come true)",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "All my dreams come true (All my dreams come true)",
+                "prev": "And when you move, it's like a disco darling",
+                "next": "So burn it up and burn th\u0435 light, oh",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "So burn it up and burn th\u0435 light, oh",
+                "prev": "All my dreams come true (All my dreams come true)",
+                "next": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "prev": "So burn it up and burn th\u0435 light, oh",
+                "next": "So let m\u0435 lean on to your body",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "So let m\u0435 lean on to your body",
+                "prev": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "next": "If your body's into me",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "If your body's into me",
+                "prev": "So let m\u0435 lean on to your body",
+                "next": "Disco darling, my-my disco darling",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Disco darling, my-my disco darling",
+                "prev": "If your body's into me",
+                "next": "",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "You're holding my hand on a bullet train",
+                "prev": "Disco darling, my-my disco darling",
+                "next": "From Tokyo to Heaven, Tokyo to Heaven",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "From Tokyo to Heaven, Tokyo to Heaven",
+                "prev": "You're holding my hand on a bullet train",
+                "next": "And the cities flash by and it changes your face",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "And the cities flash by and it changes your face",
+                "prev": "From Tokyo to Heaven, Tokyo to Heaven",
+                "next": "But only for a second, only for a second",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "But only for a second, only for a second",
+                "prev": "And the cities flash by and it changes your face",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You are the one, you are the one",
+                "prev": "But only for a second, only for a second",
+                "next": "You are the one and I need your love (You are the one)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You are the one and I need your love (You are the one)",
+                "prev": "You are the one, you are the one",
+                "next": "You are the one, you are the one for me tonight",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You are the one, you are the one for me tonight",
+                "prev": "You are the one and I need your love (You are the one)",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "All my dreams come true (All my dreams come true)",
+                "prev": "And when you move, it's like a disco darling",
+                "next": "So burn it up and burn the light, oh",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "So burn it up and burn the light, oh",
+                "prev": "All my dreams come true (All my dreams come true)",
+                "next": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "prev": "So burn it up and burn the light, oh",
+                "next": "So let me lean on to your body (Body)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "So let me lean on to your body (Body)",
+                "prev": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "next": "If your body's into me",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "If your body's into me",
+                "prev": "So let me lean on to your body (Body)",
+                "next": "Disco darling, my-my disco darling",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Late night, sing me a song",
+                "prev": "Disco darling, my-my disco darling",
+                "next": "I'll karaoke with you",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I'll karaoke with you",
+                "prev": "Late night, sing me a song",
+                "next": "We'll take it up to the room",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "We'll take it up to the room",
+                "prev": "I'll karaoke with you",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You wear the moon just like a spotlight all night",
+                "prev": "We'll take it up to the room",
+                "next": "I will follow you (I will follow you)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I will follow you (I will follow you)",
+                "prev": "You wear the moon just like a spotlight all night",
+                "next": "And when you move, it's like a disco darling (Hey)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "And when you move, it's like a disco darling (Hey)",
+                "prev": "I will follow you (I will follow you)",
+                "next": "All my dreams come true (All my dreams come true)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "All my dreams come true (All my dreams come true)",
+                "prev": "And when you move, it's like a disco darling (Hey)",
+                "next": "So burn it up and burn the light, oh",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "prev": "So burn it up and burn the light, oh",
+                "next": "So let me lean on to your body (To your body)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "So let me lean on to your body (To your body)",
+                "prev": "Now, we're dancing cheek to cheek (Dancing cheek to cheek)",
+                "next": "If your body's into me",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "If your body's into me",
+                "prev": "So let me lean on to your body (To your body)",
+                "next": "Disco darling, my-my disco darling",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Disco darling, my-my disco darling",
+                "prev": "If your body's into me",
+                "next": "",
+                "multiplicity": 1
+            }
+        ],
+        "Favourite Night": [
+            {
+                "lyric": "If I had time for love, I'd choose you",
+                "prev": "",
+                "next": "We've been withered for what we do",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "We've been withered for what we do",
+                "prev": "If I had time for love, I'd choose you",
+                "next": "Times a funny thing, jokes on you",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Times a funny thing, jokes on you",
+                "prev": "We've been withered for what we do",
+                "next": "If I had time for love",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "If I had time for love",
+                "prev": "Times a funny thing, jokes on you",
+                "next": "In my secret heart, there's a place",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "In my secret heart, there's a place",
+                "prev": "If I had time for love",
+                "next": "Where I pat on those hands are traced",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Where I pat on those hands are traced",
+                "prev": "In my secret heart, there's a place",
+                "next": "Days rush over me, blind and blue",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Days rush over me, blind and blue",
+                "prev": "Where I pat on those hands are traced",
+                "next": "If I had time for you",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "If I had time for you",
+                "prev": "Days rush over me, blind and blue",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Can't, I can't get over how it was with you",
+                "prev": "If I had time for you",
+                "next": "Favorite night, favorite night",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Favorite night, favorite night",
+                "prev": "Can't, I can't get over how it was with you",
+                "next": "I can't, I can't get over how it was with you",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "I can't, I can't get over how it was with you",
+                "prev": "Favorite night, favorite night",
+                "next": "Favorite night, favorite night",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "Favorite night, favorite night",
+                "prev": "I can't, I can't get over how it was with you",
+                "next": "I, yeah, yeah, yeah",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "I, yeah, yeah, yeah",
+                "prev": "Favorite night, favorite night",
+                "next": "I just like the way you make me feel",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "I just like the way you make me feel",
+                "prev": "I, yeah, yeah, yeah",
+                "next": "I, y\u0435ah, yeah, yeah",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I, y\u0435ah, yeah, yeah",
+                "prev": "I just like the way you make me feel",
+                "next": "I just like th\u0435 way you make me feel",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I just like th\u0435 way you make me feel",
+                "prev": "I, y\u0435ah, yeah, yeah",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Spin the globe again, we stay shy",
+                "prev": "I just like th\u0435 way you make me feel",
+                "next": "Sent a text to see soft replies",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Sent a text to see soft replies",
+                "prev": "Spin the globe again, we stay shy",
+                "next": "Are you free for just one more night?",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Are you free for just one more night?",
+                "prev": "Sent a text to see soft replies",
+                "next": "'Cause I'd make time for you",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "'Cause I'd make time for you",
+                "prev": "Are you free for just one more night?",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "And if you want me, I have to know",
+                "prev": "'Cause I'd make time for you",
+                "next": "Jump on a plane for the day, let's go",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Jump on a plane for the day, let's go",
+                "prev": "And if you want me, I have to know",
+                "next": "Cancel all the things you have to do",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Cancel all the things you have to do",
+                "prev": "Jump on a plane for the day, let's go",
+                "next": "And if you want me, there is no slow",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "And if you want me, there is no slow",
+                "prev": "Cancel all the things you have to do",
+                "next": "I want you here when the lights go low",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "I want you here when the lights go low",
+                "prev": "And if you want me, there is no slow",
+                "next": "Cancel all the things you have to do",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Cancel all the things you have to do",
+                "prev": "I want you here when the lights go low",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Can't, I can't get over how it was with you",
+                "prev": "Cancel all the things you have to do",
+                "next": "Favorite night, favorite night",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I just like the way you make me feel",
+                "prev": "I, yeah, yeah, yeah",
+                "next": "I, yeah, yeah, yeah",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "I, yeah, yeah, yeah",
+                "prev": "I just like the way you make me feel",
+                "next": "I just like the way you make me feel",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "I just like the way you make me feel",
+                "prev": "I, yeah, yeah, yeah",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "And if you want me, I have to know",
+                "prev": "I just like the way you make me feel",
+                "next": "Jump on a plane for the day, let's go",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Cancel all the things you have to do",
+                "prev": "I want you here when the lights go low",
+                "next": "Spin the globe again",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Spin the globe again",
+                "prev": "Cancel all the things you have to do",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Can't, I can't get over how it was with you",
+                "prev": "Spin the globe again",
+                "next": "Favorite night, favorite night",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I just like the way you make me feel",
+                "prev": "I, yeah, yeah, yeah",
+                "next": "",
+                "multiplicity": 1
+            }
         ]
     },
     "E\u2022MO\u2022TION": {
@@ -23452,6 +23900,384 @@
             {
                 "lyric": "Yeah, we could be the runaways",
                 "prev": "Away, away",
+                "next": "",
+                "multiplicity": 1
+            }
+        ]
+    },
+    "E\u2022MO\u2022TION Remixed +": {
+        "Fever": [
+            {
+                "lyric": "Don't tell me this is how it ends",
+                "prev": "",
+                "next": "I burn with fever that I caught from you",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I burn with fever that I caught from you",
+                "prev": "Don't tell me this is how it ends",
+                "next": "My breath was lost when you said \"friends\"",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "My breath was lost when you said \"friends\"",
+                "prev": "I burn with fever that I caught from you",
+                "next": "Well, that could work but I'm still hot for you",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Well, that could work but I'm still hot for you",
+                "prev": "My breath was lost when you said \"friends\"",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "So I stole your bike and I rode all night",
+                "prev": "Well, that could work but I'm still hot for you",
+                "next": "But I'm so damn scared you don't even care",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "But I'm so damn scared you don't even care",
+                "prev": "So I stole your bike and I rode all night",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You wanna break my heart, alright",
+                "prev": "But I'm so damn scared you don't even care",
+                "next": "I caught your fever, I'll be feeling it forever",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I caught your fever, I'll be feeling it forever",
+                "prev": "You wanna break my heart, alright",
+                "next": "You want a brand new start, alright",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "You want a brand new start, alright",
+                "prev": "I caught your fever, I'll be feeling it forever",
+                "next": "I caught your fever, I'll be feeling it forever",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "I caught your fever, I'll be feeling it forever",
+                "prev": "You want a brand new start, alright",
+                "next": "",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "I've still been sleeping at my friend's",
+                "prev": "I caught your fever, I'll be feeling it forever",
+                "next": "Dropped off your helmet and lock for me",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Dropped off your helmet and lock for me",
+                "prev": "I've still been sleeping at my friend's",
+                "next": "I wrote some things I didn't send",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I wrote some things I didn't send",
+                "prev": "Dropped off your helmet and lock for me",
+                "next": "Three words to say that meant a lot to me",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Three words to say that meant a lot to me",
+                "prev": "I wrote some things I didn't send",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "So I rode your bike to your house last night",
+                "prev": "Three words to say that meant a lot to me",
+                "next": "And I'm so damn scared 'cause your car's not there",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "And I'm so damn scared 'cause your car's not there",
+                "prev": "So I rode your bike to your house last night",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You wanna break my heart, alright",
+                "prev": "And I'm so damn scared 'cause your car's not there",
+                "next": "I caught your fever, I'll be feeling it forever",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "And my lights stay up, but your city sleeps",
+                "prev": "I caught your fever, I'll be feeling it forever",
+                "next": "It's a different world when you're not here with me",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "It's a different world when you're not here with me",
+                "prev": "And my lights stay up, but your city sleeps",
+                "next": "Go on and break my heart tonight",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Go on and break my heart tonight",
+                "prev": "It's a different world when you're not here with me",
+                "next": "I caught your fever, I'll be feeling it forever",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "I caught your fever, I'll be feeling it forever",
+                "prev": "Go on and break my heart tonight",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Don't break my heart tonight",
+                "prev": "I caught your fever, I'll be feeling it forever",
+                "next": "Don't break my heart tonight",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Don't break my heart tonight",
+                "prev": "Don't break my heart tonight",
+                "next": "Don't break my heart tonight",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Don't break my heart tonight",
+                "prev": "Don't break my heart tonight",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "You wanna break my heart, alright",
+                "prev": "Don't break my heart tonight",
+                "next": "I caught your fever, I'll be feeling it forever",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I caught your fever, I'll be feeling it forever",
+                "prev": "Go on and break my heart tonight",
+                "next": "",
+                "multiplicity": 1
+            }
+        ],
+        "First Time": [
+            {
+                "lyric": "Through all the heartbreak, we'll make it feel like the first time",
+                "prev": "",
+                "next": "First time",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "First time",
+                "prev": "Through all the heartbreak, we'll make it feel like the first time",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Catching tears like raindrops here in the glass",
+                "prev": "First time",
+                "next": "Keep them safe in case you should ever ask",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Keep them safe in case you should ever ask",
+                "prev": "Catching tears like raindrops here in the glass",
+                "next": "Or if you'd like, we don't need to talk about it",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Or if you'd like, we don't need to talk about it",
+                "prev": "Keep them safe in case you should ever ask",
+                "next": "I don't care",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I don't care",
+                "prev": "Or if you'd like, we don't need to talk about it",
+                "next": "I will wait right here by my windowsill",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I will wait right here by my windowsill",
+                "prev": "I don't care",
+                "next": "For the sun to come, if it ever will",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "For the sun to come, if it ever will",
+                "prev": "I will wait right here by my windowsill",
+                "next": "Everyone says I can never get my fill, but I don't care",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Everyone says I can never get my fill, but I don't care",
+                "prev": "For the sun to come, if it ever will",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "We won't get too sentimental, not tonight",
+                "prev": "Everyone says I can never get my fill, but I don't care",
+                "next": "I could meet you in the middle, we won't fight",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I could meet you in the middle, we won't fight",
+                "prev": "We won't get too sentimental, not tonight",
+                "next": "",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "'Cause when my heart breaks, it always feels like the first time",
+                "prev": "I could meet you in the middle, we won't fight",
+                "next": "First time",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "First time",
+                "prev": "'Cause when my heart breaks, it always feels like the first time",
+                "next": "But if you stay here, we could kiss away the goodbye",
+                "multiplicity": 3
+            },
+            {
+                "lyric": "But if you stay here, we could kiss away the goodbye",
+                "prev": "First time",
+                "next": "Goodbye",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Goodbye",
+                "prev": "But if you stay here, we could kiss away the goodbye",
+                "next": "Through all the heartbreak, we'll make it feel like the first time",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Through all the heartbreak, we'll make it feel like the first time",
+                "prev": "Goodbye",
+                "next": "First time",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "First time",
+                "prev": "Through all the heartbreak, we'll make it feel like the first time",
+                "next": "And if you stay here, we could kiss away the goodbye",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "And if you stay here, we could kiss away the goodbye",
+                "prev": "First time",
+                "next": "Goodbye",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Goodbye",
+                "prev": "And if you stay here, we could kiss away the goodbye",
+                "next": "",
+                "multiplicity": 2
+            },
+            {
+                "lyric": "Looking back, I followed you everywhere",
+                "prev": "Goodbye",
+                "next": "We were kids just playing with truth and dare",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "We were kids just playing with truth and dare",
+                "prev": "Looking back, I followed you everywhere",
+                "next": "Let's be honest",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Let's be honest",
+                "prev": "We were kids just playing with truth and dare",
+                "next": "No one else can take me there, but I don't care",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "No one else can take me there, but I don't care",
+                "prev": "Let's be honest",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "We won't get too sentimental, not tonight",
+                "prev": "No one else can take me there, but I don't care",
+                "next": "I could meet you in the middle, we won't fight",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Don't you?",
+                "prev": "Goodbye",
+                "next": "I hope that you want to make it up and start it over",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I hope that you want to make it up and start it over",
+                "prev": "Don't you?",
+                "next": "Don't you?",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Don't you?",
+                "prev": "I hope that you want to make it up and start it over",
+                "next": "I hope that you want to make it up and start it over",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "I hope that you want to make it up and start it over",
+                "prev": "Don't you?",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "(I don't really think any of this is easy)",
+                "prev": "I hope that you want to make it up and start it over",
+                "next": "Feels like the first time",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Feels like the first time",
+                "prev": "(I don't really think any of this is easy)",
+                "next": "",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "'Cause when my heart breaks, it always feels like the first time",
+                "prev": "Feels like the first time",
+                "next": "First time",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "But if you stay here, we could kiss away the goodbye",
+                "prev": "First time",
+                "next": "Goodbye (yeah, yeah)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Goodbye (yeah, yeah)",
+                "prev": "But if you stay here, we could kiss away the goodbye",
+                "next": "We'll make it feel like the first time (oh-oh-oh, feels like the first time)",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "We'll make it feel like the first time (oh-oh-oh, feels like the first time)",
+                "prev": "Goodbye (yeah, yeah)",
+                "next": "And if you stay here, we could kiss away the goodbye",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "And if you stay here, we could kiss away the goodbye",
+                "prev": "We'll make it feel like the first time (oh-oh-oh, feels like the first time)",
+                "next": "Goodbye",
+                "multiplicity": 1
+            },
+            {
+                "lyric": "Goodbye",
+                "prev": "And if you stay here, we could kiss away the goodbye",
                 "next": "",
                 "multiplicity": 1
             }
